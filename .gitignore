@@ -1,0 +1,16 @@
+# API
+env/
+__pycache__/
+
+# Bot
+node_modules
+.env
+config.json
+
+# Model
+hidden_words.py
+discord/
+instagram/
+messages/
+.config.env
+.env/
